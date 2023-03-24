@@ -1,0 +1,31 @@
+body {
+  background-color: #7fffd4;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #008b8b;
+  border-width: 7px;
+  width: 5%;
+}
+h2,
+h3 {
+  color: #7b68ee;
+  text-align: center;
+}
+td,
+th,
+li,
+p {
+  color: #7b68ee;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+h1 {
+  color: #191970;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+form {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
